@@ -1,0 +1,666 @@
+@media (max-width:600px) {
+    .card-section {
+        width: 90% !important;
+        background: #000;
+    }
+
+    footer {
+        display: flex;
+        align-items: start;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+}
+
+@media (max-width:776px) {
+
+    ul li a {
+        font-size: 18px;
+    }
+    .sec-three-text{
+        margin-top: 220px !important;
+    }
+
+    footer {
+        display: block;
+        flex-direction: column;
+        width: 100%;
+
+    }
+
+    .text-footer {
+        /* margin-top: 50px; */
+        width: 90%;
+        margin-right: 10px;
+
+
+    }
+
+    .text-footer h4 {
+
+        padding: 15px;
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 50px;
+        word-wrap: break-word;
+
+
+    }
+
+    /* .footer-h{
+        display: flex;
+        flex-direction: column;
+    } */
+
+    .head-b {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sec-three-text {
+        /* position: relative; */
+        margin-top: 150px;
+    }
+
+    .text-form-icon {
+        width: 100%;
+        margin-top: -20px;
+
+    }
+
+    .form-message {
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        /* display: block; */
+    }
+
+    .form-message input {}
+
+    .inputs-label {
+        display: block;
+        width: 100%;
+    }
+
+    .inputs-label input {
+        display: flex;
+        width: 90% !important;
+        margin-right: -20px;
+
+
+    }
+
+    .form-textArea {
+        width: 90%;
+        align-items: center;
+        overflow: hidden;
+    }
+
+    .form-textArea textarea {
+        margin-right: 10px;
+        width: 100%;
+    }
+
+    .text-form-icon h4 {
+        font-size: 14px;
+
+    }
+
+    .text-hero {
+        /* border: 1px solid red ; */
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .text-hero h2 {
+        font-size: 33px;
+        text-align: right;
+
+    }
+
+    .text-hero h3,
+    .text-hero p {
+        font-size: 22px;
+        margin-top: -20px;
+    }
+
+    .head-t {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+
+    .btn-hero {
+        margin-top: 30px;
+    }
+
+    .btn-hero button {
+        width: 150px;
+        margin-top: -20px;
+        font-size: 15px;
+        height: 40px;
+    }
+
+    .second-section-text h2 {
+        font-size: 34px;
+        margin-top: 50px;
+        margin-right: 3rem;
+        font-weight: 700;
+    }
+
+    .second-section-text p {
+        font-weight: 700;
+        font-size: 20px;
+    }
+
+    .card-text {
+        position: relative;
+        right: 0;
+    }
+
+    .cards {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        /* flex-direction: column; */
+    }
+
+
+    .hero   .fa-arrow-left {
+        font-size: 0px;
+        width: 0px;
+        height: 0px;
+
+    }
+
+    main h2 {
+        letter-spacing: 3px;
+        font-size: 45px;
+    }
+
+    .btn-main {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .btn-main button {
+
+        font-size: 18px;
+    }
+
+    .cards-main {
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .card-main {
+
+        /* margin-left:.8em; */
+        width: 20%;
+
+
+    }
+
+    .image-main img {
+        height: 200px;
+        width: 20%;
+
+    }
+
+    .head-ul {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: start;
+        justify-content: center;
+    }
+    .footer-h{
+
+flex-direction: column;
+    }
+
+    .head-ul ul {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .image-footer img {
+        width: 100%;
+        height: 400px;
+    }
+
+}
+@media (max-width:992px) {
+.for
+    .inputs-label {
+        display: block;
+        width: 100%;
+    }
+
+    .inputs-label input {
+        display: flex;
+        width: 95% !important;
+        margin-right: -20px;
+
+
+    }
+    .inputs-label input::placeholder {
+       font-size: 18px;
+
+
+    }
+    .form-textArea {
+        width: 100%;
+        align-items: center;
+        overflow: hidden;
+        margin:0 auto;
+    }
+
+    .form-textArea textarea {
+        margin:0 auto !important;
+
+        width: 100%;
+    }
+
+
+
+    .cards-main {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .card-main {
+        display: flex;
+        flex-direction: column;
+        width: 40%;
+    }
+
+
+
+    ul li a {
+        display: flex;
+        position: relative;
+        font-size: 20px !important;
+
+    }
+
+
+
+
+
+    .form-message {
+        width: 95%;
+        overflow: hidden;
+        display: flex;
+        align-items: start;
+        flex-direction: column;
+        /* display: block; */
+    }
+
+
+    .inputs-label {
+/* padding: 0; */
+margin-top: 15px;
+margin-right: 5px;
+        width: 100%;
+    }
+
+    .inputs-label input {
+        display: flex;
+        width: 100%;
+        margin-right: 0px;
+
+
+    }
+
+    .form-textArea {
+        width: 90%;
+        align-items: center;
+        overflow: hidden;
+    }
+
+    .form-textArea textarea {
+        margin-right: 10px;
+        width: 100%;
+    }
+
+    .text-form-icon h4 {
+        font-size: 14px;
+
+    }
+
+    .text-hero {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .text-hero h2 {
+        font-size: 33px;
+        text-align: right;
+
+    }
+
+    .text-hero h3,
+    .text-hero p {
+        font-size: 22px;
+        margin-top: -20px;
+    }
+
+    .head-t {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+
+    .btn-hero {
+        margin-top: 30px;
+    }
+
+    .btn-hero button {
+        width: 150px;
+        margin-top: -20px;
+        font-size: 15px;
+        height: 40px;
+    }
+
+    .second-section-text h2 {
+        font-size: 34px;
+        margin-top: 50px;
+        margin-right: 3rem;
+        font-weight: 700;
+    }
+
+    .second-section-text p {
+        font-weight: 700;
+        font-size: 20px;
+    }
+
+    .cards {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .card-section {
+        display: flex;
+
+        width: 45%;
+    }
+
+    .fa-arrow-left {
+        font-size: 0px;
+        width: 0px;
+        height: 0px;
+
+    }
+
+    main h2 {
+        letter-spacing: 3px;
+        font-size: 45px;
+    }
+
+    .btn-main {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .btn-main button {
+
+        font-size: 18px;
+    }
+
+
+
+    .text-footer {
+        /* margin-top: 50px; */
+        width: 90%;
+        margin-right: 10px;
+
+
+    }
+
+    .text-footer h4 {
+
+        padding: 15px;
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 50px;
+        word-wrap: break-word;
+
+
+    }
+
+    .head-ul {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: start;
+        justify-content: start;
+    }
+
+    .head-ul ul {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .image-footer img {
+        width: 100%;
+        height: 400px;
+    }
+
+}
+@media (min-width:1300px)
+{
+    .inputs-label
+     {
+        border: 1px solid red;
+        margin-top: 70px;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        /* padding: 0; */
+        /* margin: 0; */
+        /* display: flex; */
+        width: 100%;
+    }
+    .inputs-label input {
+display: flex;
+align-items: center;
+justify-content: space-around !important;
+        /* display: flex; */
+        width:100%!important;
+
+        margin-right: 20px;
+
+    }
+    #meals .inputs-label input{
+
+        /* width: 450px !important; */
+    }
+
+
+.input-form-pageOne
+{
+    margin-top: 30px;
+    gap: 1rem;
+}
+
+
+    .form-message input
+    {
+        width: 100%;
+    }
+
+    .form-textArea
+    {
+        position: relative !important;
+        /* border: 1px solid red; */
+        width: 95%;
+        overflow: hidden;
+    }
+
+    .form-textArea textarea
+    {
+        width: 100%;
+        margin-right: 20px;
+    }
+
+    .footer-h
+     {
+        width: 100%;
+        display: flex;
+        align-items: end;
+    }
+
+    .card-section
+    {
+        width: 32%;
+    }
+}
+
+
+@media screen and (min-width:1200px) and (max-width:1290px) {
+    ul li a {
+        font-size: 18px !important;
+    }
+    .inputs-label{
+        gap: 1rem;
+    }
+    .inputs-label input {
+
+        /* display: flex; */
+        width:450px !important;
+
+        /* margin-right: 20px; */
+
+    }
+#meals .inputs-label input{
+    width: 370px !important;
+}
+    .form-textArea textarea {
+        width: 90%;
+
+        margin-right: 0px !important;
+    }
+
+}
+@media screen and (min-width:1100px) and (max-width:1200px) {
+    .inputs-label {
+        display: flex;
+        width: 100%;
+    }
+
+    .inputs-label input {
+        display: flex;
+        width: 420px !important;
+        margin-right: 0px !important;
+
+
+    }
+}
+
+
+@media screen and (min-width:992px) and (max-width:1100px) {
+    .card-section {
+        width: 35%;
+    }
+
+    .footer-h {
+        width: 100%;
+        display: flex;
+
+
+    }
+
+    .inputs-label {
+        display: flex;
+        width: 100%;
+    }
+
+    .inputs-label input {
+        display: flex;
+        width: 390px !important;
+        margin-right: -20px;
+
+
+    }
+
+
+
+    .form-message input {
+        width: 100%;
+    }
+
+    .form-textArea textarea {
+        width: 90%;
+
+        margin-right: 0px !important;
+    }
+}
+
+@media screen and (min-width:768px)and (max-width:992px) {
+
+    .inputs-label {
+        display: flex;
+        width: 100%;
+    }
+
+    .inputs-label input {
+        display: flex;
+        width: 350px !important;
+        margin-right: -20px;
+
+
+    }
+
+    .img-Logo {
+        margin-right: -100px;
+    }
+
+    .card-section {
+        width: 48% !important;
+    }
+
+    .form-message input {
+        width: 100%;
+    }
+
+    .form-textArea textarea {
+        margin-right: 0;
+    }
+}
+
+
+
+@media screen and (min-width:500px)and (max-width:768px) {
+    .card-section {
+        width: 90% !important;
+    }
+}
+
+@media screen and (min-width:360px)and (max-width:500px) {
+    .content {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:350px) {
+    .content {
+        flex-direction: column;
+    }
+}
